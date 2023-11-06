@@ -1,4 +1,11 @@
 # Movie_reviews
+
+Sử dụng MongoDB, NodeJS, ExpressJS và Retact 
+
+- Thiết lập phần Backend với API để xem, xóa và cập nhật đánh giá cho phim 
+- Xây dựng chức năng tìm kiếm phim dựa trên một số tiêu chí, chẳng hạn như tên và xếp hạng 
+- Sử dụng React để xây dựng giao diện cho người dùng để dễ dàng sử dụng
+
 Giao diện chức năng tìm kiếm:
 
 ![image](https://github.com/vanh182/Movie_reviews/assets/118065256/aac0dd39-1058-4784-a393-2c2261470eea)
